@@ -1,0 +1,5 @@
+{
+  "name": "StructuraLens",
+  "description": "Upload structural beam diagrams to automatically generate parameterized SVG visualizations and LaTeX TikZ code using Gemini 2.5 Vision.",
+  "requestFramePermissions": []
+}
